@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "author": "Jeremy Clarkson",
+      "title": "Can You Make This Thing Go Faster",
+      "publisher": "Penguin Random House UK",
+      "date": 2020,
+      "user": "-",
+      "reserved": "2022-10-12",
+      "leased": false
+    },
+    {
+      "id": 1,
+      "author": "Jeremy Clarkson",
+      "title": "Diddly Squat - a Year on the Farm",
+      "date": 2020,
+      "publisher": "Penguin Random House UK",
+      "user": "-",
+      "reserved": "2022-10-21",
+      "leased": false
+    },
+    {
+      "id": 2,
+      "author": "Jeremy Clarkson",
+      "title": "Diddly Squat - a Year on the Farm 2",
+      "date": 2020,
+      "publisher": "Penguin Random House UK",
+      "user": "-",
+      "reserved": "2022-10-21",
+      "leased": false
+    },
+    {
+      "id": 3,
+      "author": "Jeremy Clarkson",
+      "title": "Diddly Squat - a Year on the Farm 3",
+      "date": 2020,
+      "publisher": "Penguin Random House UK",
+      "user": "-",
+      "reserved": "2022-10-21",
+      "leased": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "librarian",
+      "pwd": "123"
+    },
+    {
+      "id": 3,
+      "login": "james",
+      "pwd": "123"
+    },
+    {
+      "login": "jeremy",
+      "pwd": "123",
+      "id": 5
+    },
+    {
+      "login": "test1",
+      "pwd": "test1",
+      "id": 6
+    },
+    {
+      "login": "maciek",
+      "pwd": "123",
+      "id": 7
+    },
+    {
+      "login": "maciek",
+      "pwd": "123",
+      "id": 8
+    },
+    {
+      "login": "owen",
+      "pwd": "123",
+      "id": 9
+    }
+  ]
+}
